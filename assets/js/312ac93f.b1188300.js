@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocs_docs=self.webpackChunkocs_docs||[]).push([[605],{1635:function(s){s.exports=JSON.parse('{"label":"OCS\u8f6f\u4ef6","permalink":"/docs/tags/ocs\u8f6f\u4ef6","allTagsPath":"/docs/tags","count":1,"items":[{"id":"app","title":"\u8f6f\u4ef6\u6559\u7a0b","description":"\u8f6f\u4ef6\u4e0b\u8f7d","permalink":"/docs/app"}]}')}}]);
