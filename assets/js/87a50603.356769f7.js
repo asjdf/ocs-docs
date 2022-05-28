@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkocs_docs=self.webpackChunkocs_docs||[]).push([[723],{9602:function(s){s.exports=JSON.parse('{"label":"API","permalink":"/docs/tags/api","allTagsPath":"/docs/tags","count":1,"items":[{"id":"\u66f4\u591a/api","title":"\u5f00\u53d1\u6587\u6863","description":"\u6280\u672f\u6808","permalink":"/docs/\u66f4\u591a/api"}]}')}}]);
